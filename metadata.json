@@ -1,0 +1,6 @@
+{
+  "name": "Brick Breaker",
+  "description": "A native Brick Breaker arcade game with responsive drag controls, ball physics, paddle deflection, vibrant bricks, and win/loss states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
